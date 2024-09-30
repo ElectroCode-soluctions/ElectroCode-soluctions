@@ -33,7 +33,7 @@ Nosso objetivo principal é **compartilhar conhecimento** e **soluções inovado
 
 ## 📺 **Acompanhe-nos também no YouTube!**
 
-Confira nossos vídeos práticos e tutoriais completos no [**canal do YouTube - Electrocode Solutions**](https://www.youtube.com/c/ElectrocodeSolutions), onde publicamos novos conteúdos regularmente sobre:
+Confira nossos vídeos práticos e tutoriais completos no [**canal do YouTube - Electrocode Solutions**](https://www.youtube.com/@ElectroCodeSolutions), onde publicamos novos conteúdos regularmente sobre:
 
 - **Eletrônica** 🛠️
 - **Automação** ⚙️
